@@ -21,7 +21,7 @@ const projects = [
   {
     title: "Shree Shyam Jewellers",
     description:
-      "Modern animated developer portfolio built with React, Tailwind CSS and Framer Motion.",
+      "Modern animated Jewellers Website built with Next.js, Tailwind CSS and Express.",
     tech: ["Next.js", "Tailwind", "Express" , "MongoDB"],
     github: "https://github.com/Abhiverma21/Shree-Shyam-Jewellers",
     live: "https://shree-shyam-jewellers.vercel.app/",
