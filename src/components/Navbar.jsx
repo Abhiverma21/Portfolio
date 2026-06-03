@@ -171,7 +171,7 @@ const Navbar = () => {
 
             {/* Resume Button - Desktop */}
             <motion.a
-              href="/src/public/Abhishek Verma .pdf"
+              href="/Abhishek Verma .pdf"
               target="_blank"
               whileHover={{ scale: 1.05, y: -2 }}
               whileTap={{ scale: 0.95 }}
@@ -361,7 +361,7 @@ const Navbar = () => {
 
                   {/* Resume Button - Full width */}
                   <motion.a
-                    href="/src/public/Abhishek Verma .pdf"
+                    href="/Abhishek Verma .pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     initial={{ opacity: 0, y: 50 }}

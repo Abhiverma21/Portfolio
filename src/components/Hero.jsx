@@ -262,7 +262,7 @@ const HeroContent = ({ responsive, socialLinks }) => (
       </PrimaryButton>
       <SecondaryButton href="/Abhishek.pdf">
         <MdDownload className="inline-block mr-2" />
-        <a href="/src/public/Abhishek Verma .pdf" target="_blank">Preview Resume</a>
+        <a href="/Abhishek Verma .pdf" target="_blank">Preview Resume</a>
       </SecondaryButton>
     </motion.div>
 
