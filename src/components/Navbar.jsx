@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-const navItems = ["About", "Skills", "Projects", "Contact"];
+const navItems = ["About", "Skills", "Experience","Projects", "Contact" ];
 let socials = [
   {
     subject: "Github",
